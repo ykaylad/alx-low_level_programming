@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * leet - function that encodes
- * @str: string that will
- * Return: returns encoded
+ * leet - function that encodes astring
+ * @str: string that will be encoded
+ * Return: returns encoded string
  */
 
 char *leet(char *str)
