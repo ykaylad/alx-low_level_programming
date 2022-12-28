@@ -2,9 +2,9 @@
 
 /**
  * _isupper - uppercase letters
- * @c: print int
+ * @c: char to check
  *
- * Return: give 1 or 0
+ * Return: 0 or 1
  */
 
 int _isupper(int c)
