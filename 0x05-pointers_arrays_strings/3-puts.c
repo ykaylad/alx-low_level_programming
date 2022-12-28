@@ -5,7 +5,7 @@
  * stdout.
  *
  * @str: This is my input string
- * Reteurn: nothing on success
+ * Return: nothing on success
  */
 
 void _puts(char *str)
